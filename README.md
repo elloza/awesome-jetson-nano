@@ -9,17 +9,17 @@ A curated list of awesome Nvidia Jetson Nano projects and resources.
 
 | Item  | Description  | Price  |
 |---|---|---|
-| [Jetson Nano Pack](https://www.nvidia.com/es-es/autonomous-machines/embedded-systems/jetson-nano/)  |  This pack only includes the Jetson Nano Board.   |  ~134 € including shipping.|
-|  [Micro SD Card](https://www.amazon.com/gp/product/B06XX29S9Q/ref=as_li_ss_tl?ie=UTF8&psc=1&linkCode=sl1&tag=jetsonhacks-20&linkId=cef2bdb66716da2f7134cdbbed3aa5b8&language=en_US) |  Recommended >= 32GB UHS-1 minimum | ~10 € |
+| [Jetson Nano Pack](https://www.nvidia.com/es-es/autonomous-machines/embedded-systems/jetson-nano/)*  |  This pack only includes the Jetson Nano Board.   |  ~134 € including shipping.|
+|  [Micro SD Card](https://www.amazon.com/gp/product/B06XX29S9Q/ref=as_li_ss_tl?ie=UTF8&psc=1&linkCode=sl1&tag=jetsonhacks-20&linkId=cef2bdb66716da2f7134cdbbed3aa5b8&language=en_US)* |  Recommended >= 32GB UHS-1 minimum | ~10 € |
 | [Power Supply USB](https://www.amazon.com/Official-Raspberry-Foundation-Power-Supply/dp/B0793FR8ZJ/ref=as_li_ss_tl?keywords=official+usb+raspberry+pi+power+supply&qid=1552391931&s=gateway&sr=8-4&linkCode=sl1&tag=thedailyack-20&linkId=2fe6fdc43dce40300082328e95458fff&language=en_US)*  | Get Official power supply USB  | ~14€ |
 | [Power Supply Jack](https://es.aliexpress.com/item/Adaptador-de-corriente-de-5-V-DC-5-V-1-5A-2A-2-5A-3A-3/32967617602.html?spm=2114.search0204.3.46.4f52391dSr16Gx&transAbTest=ae803_3&ws_ab_test=searchweb0_0%2Csearchweb201602_10_10065_10068_319_10059_10884_317_10887_10696_321_322_10084_453_10083_454_10103_10618_10307_537_536%2Csearchweb201603_54%2CppcSwitch_0&algo_pvid=81805edb-1130-433d-8ad8-74e5bde90173&algo_expid=81805edb-1130-433d-8ad8-74e5bde90173-10) |  5V 4A |  ~10€ |
 | [Wireless USB](https://www.amazon.es/Edimax-EW-7811UN-Adaptador-Interfaz-negro/dp/B003MTTJOY/ref=sr_1_1?__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=Edimax+EW-7811Un&qid=1556966774&s=electronics-accessories&sr=8-1) | Check what wifi dongle is compatible with this board!  | ~9€  |
 |   [Wireless M2](https://es.aliexpress.com/item/Dual-G-Band-2-4-5-GHz-Wifi-Bluetooth-Wlan-para-Intel-8265NGW-inal-mbrico-AC/32847646700.html?albbt=Google_7_shopping&isdl=y&slnk=&albslr=200151807&src=google&acnt=494-037-6276&aff_platform=google&crea=es32847646700&netw=u&plac=&albcp=1633820309&mtctp=&aff_short_key=UneMJZVf&gclid=CjwKCAjw8LTmBRBCEiwAbhh-6N0x3I3zol-4pdglsM6tc7XukFhhuQyGQJ0yJ2F0fcKbTPosJ9_WvBoC91wQAvD_BwE&albag=63890294393&albch=shopping&albagn=888888&gclsrc=aw.ds&trgt=539263010115&device=c) | M2 wifi option  |  ~17€ |
 |  [CSI Camera](https://www.amazon.com/Raspberry-Pi-Camera-Module-Megapixel/dp/B01ER2SKFS/ref=as_li_ss_tl?keywords=raspberry+pi+camera+v2&qid=1554226144&s=electronics&sr=1-3&linkCode=sl1&tag=jetsonhacks-20&linkId=d83850d1e300144afae124acab8ab636&language=en_US) |  MIPI-CSI(2) Camera | ~20€ |
 |  [USB Camera](https://www.amazon.com/Logitech-Widescreen-Calling-Recording-Desktop/dp/B006JH8T3S/ref=as_li_ss_tl?ie=UTF8&qid=1543709223&sr=8-3&keywords=logitech+c920+webcam&linkCode=sl1&tag=jetsonhacks-20&linkId=71cb7db6e3b4cee2ed9a3f758cd63969&language=en_US) |  USB Camera | ~50€ |
-|   |  TOTAL | ~168€-190€ |
+|   |  TOTAL | ~158€-190€ |
 
-
+(*) Basic Required
 
 ## Forums
 * [Official Nvidia Forum](https://devtalk.nvidia.com/default/board/371/)
