@@ -1,2 +1,51 @@
 # awesome-jetson-nano [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-A list of resources to start working with Jetson Nano Nvidia
+A curated list of awesome Nvidia Jetson Nano projects and resources.
+
+![](https://www.nvidia.com/content/dam/en-zz/Solutions/intelligent-machines/jetson-nano/nvidia-jetson-nano-developer-kit-2c50-d.png)
+
+## Needed hardware
+
+* [Official Hardware Guide]()
+
+| Item  | Description  | Price  |
+|---|---|---|
+| [Jetson Nano Pack](https://www.nvidia.com/es-es/autonomous-machines/embedded-systems/jetson-nano/)  |  This pack only includes the Jetson Nano Board.   |  ~134 € including shipping.|
+|  [Micro SD Card](https://www.amazon.com/gp/product/B06XX29S9Q/ref=as_li_ss_tl?ie=UTF8&psc=1&linkCode=sl1&tag=jetsonhacks-20&linkId=cef2bdb66716da2f7134cdbbed3aa5b8&language=en_US) |  Recommended >= 32GB UHS-1 minimum | ~10 € |
+| [Power Supply USB](https://www.amazon.com/Official-Raspberry-Foundation-Power-Supply/dp/B0793FR8ZJ/ref=as_li_ss_tl?keywords=official+usb+raspberry+pi+power+supply&qid=1552391931&s=gateway&sr=8-4&linkCode=sl1&tag=thedailyack-20&linkId=2fe6fdc43dce40300082328e95458fff&language=en_US)*  | Get Official power supply USB  | ~14€ |
+| [Power Supply Jack](https://es.aliexpress.com/item/Adaptador-de-corriente-de-5-V-DC-5-V-1-5A-2A-2-5A-3A-3/32967617602.html?spm=2114.search0204.3.46.4f52391dSr16Gx&transAbTest=ae803_3&ws_ab_test=searchweb0_0%2Csearchweb201602_10_10065_10068_319_10059_10884_317_10887_10696_321_322_10084_453_10083_454_10103_10618_10307_537_536%2Csearchweb201603_54%2CppcSwitch_0&algo_pvid=81805edb-1130-433d-8ad8-74e5bde90173&algo_expid=81805edb-1130-433d-8ad8-74e5bde90173-10) |  5V 4A |  ~10€ |
+| [Wireless USB](https://www.amazon.es/Edimax-EW-7811UN-Adaptador-Interfaz-negro/dp/B003MTTJOY/ref=sr_1_1?__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=Edimax+EW-7811Un&qid=1556966774&s=electronics-accessories&sr=8-1) | Check what wifi dongle is compatible with this board!  | ~9€  |
+|   [Wireless M2]( Intel 8265 Desktop Wireless M.2 Kit.) | M2 wifi option  |  ~17€ |
+|   |  TOTAL | ~168€-190€ |
+
+
+## Forums
+* [Official Nvidia Forum](https://devtalk.nvidia.com/default/board/371/)
+
+
+## How to setup you Jetson Nano
+* [Getting Started with the NVIDIA Jetson Nano Developer Kit](https://blog.hackster.io/getting-started-with-the-nvidia-jetson-nano-developer-kit-43aa7c298797): A great tutorial to perform the initial setup of your Jetson Nano. This could save a lot of your time for the initial setup.
+* [Official Setup Guide](https://developer.nvidia.com/embedded/learn/get-started-jetson-nano-devkit)
+
+
+## Jetson Nano case 3d models
+* [Jetson Nano Case](https://www.thingiverse.com/thing:3603594): A great case by Enrique Coiras
+![](https://cdn.thingiverse.com/renders/a5/00/69/3f/ee/a8579806d3b3eb1dc5d5bbd876e14171_preview_featured.jpg)
+
+## Python & Tensorflow install
+
+* Using these useful [scripts](https://github.com/karaage0703/jetson-nano-tools)
+
+## Pytorch install
+
+* TBD
+
+## Youtube Channels
+
+* [JetsonHacks](https://www.youtube.com/channel/UCQs0lwV6E4p7LQaGJ6fgy5Q)
+* [Zack's Lab](https://www.youtube.com/watch?v=U3VJCSDqdG4)
+
+## Github projects
+
+* [Official JetBot](https://github.com/NVIDIA-AI-IOT/jetbot)
+* [Official JetBot](https://github.com/NVIDIA-AI-IOT/jetbot)
+
