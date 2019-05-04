@@ -50,6 +50,9 @@ A curated list of awesome Nvidia Jetson Nano projects and resources.
 
 * TBD
 
+## OpenCV
+* [OpenCV 4 Install Script](https://github.com/AastaNV/JEP/blob/master/script/install_opencv4.0.0_Nano.sh) 
+
 ## ROS install
 * [Jetson Easy Configurator](https://github.com/rbonghi/jetson_easy)
 * [JetBot ROS](https://github.com/dusty-nv/jetbot_ros)
