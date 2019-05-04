@@ -61,4 +61,5 @@ A curated list of awesome Nvidia Jetson Nano projects and resources.
 ## Github projects
 
 * [Official JetBot](https://github.com/NVIDIA-AI-IOT/jetbot)
+* [Jetson Nano Object Detection and Tracking](https://github.com/SteveMacenski/jetson_nano_detection_and_tracking)
 
