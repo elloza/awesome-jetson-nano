@@ -48,7 +48,7 @@ A curated list of awesome Nvidia Jetson Nano projects and resources.
 
 ## ROS install
 
-* [Jetson Easy Configurator] (https://github.com/rbonghi/jetson_easy)
+* [Jetson Easy Configurator](https://github.com/rbonghi/jetson_easy)
 
 ## Youtube Channels
 
