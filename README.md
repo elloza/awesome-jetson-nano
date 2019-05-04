@@ -39,7 +39,7 @@ A curated list of awesome Nvidia Jetson Nano projects and resources.
 * [Jetson NVIDIA GPIO](https://github.com/NVIDIA/jetson-gpio)
 
 ## Jetson Nano case 3d models
-* [Jetson Nano Case](https://www.thingiverse.com/thing:3603594): A great case by Enrique Coiras
+* [Jetson Nano Case](https://www.thingiverse.com/thing:3603594): A great case by Enrique Coiras. [Without antennas](https://www.thingiverse.com/thing:3518410)
 
 ![](https://cdn.thingiverse.com/renders/a5/00/69/3f/ee/a8579806d3b3eb1dc5d5bbd876e14171_preview_featured.jpg)
 
