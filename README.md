@@ -48,7 +48,7 @@ A curated list of awesome Nvidia Jetson Nano projects and resources.
 
 ## Pytorch install
 
-* TBD
+* [NVIDIA Forum thread](https://devtalk.nvidia.com/default/topic/1049071/pytorch-for-jetson-nano/)
 
 ## OpenCV
 * [OpenCV 4 Install Script](https://github.com/AastaNV/JEP/blob/master/script/install_opencv4.0.0_Nano.sh) 
