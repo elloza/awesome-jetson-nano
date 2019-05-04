@@ -35,13 +35,15 @@ A curated list of awesome Nvidia Jetson Nano projects and resources.
 ## CSI Camera
 * [Jetson Nano CSI Camera](https://github.com/JetsonHacksNano/CSI-Camera)
 
+## GPIO Jetson
+* [Jetson NVIDIA GPIO](https://github.com/NVIDIA/jetson-gpio)
+
 ## Jetson Nano case 3d models
 * [Jetson Nano Case](https://www.thingiverse.com/thing:3603594): A great case by Enrique Coiras
 
 ![](https://cdn.thingiverse.com/renders/a5/00/69/3f/ee/a8579806d3b3eb1dc5d5bbd876e14171_preview_featured.jpg)
 
 ## Python & Tensorflow install
-
 * Using these useful [scripts](https://github.com/karaage0703/jetson-nano-tools)
 
 ## Pytorch install
@@ -49,17 +51,14 @@ A curated list of awesome Nvidia Jetson Nano projects and resources.
 * TBD
 
 ## ROS install
-
 * [Jetson Easy Configurator](https://github.com/rbonghi/jetson_easy)
 * [JetBot ROS](https://github.com/dusty-nv/jetbot_ros)
 
 ## Youtube Channels
-
 * [JetsonHacks](https://www.youtube.com/channel/UCQs0lwV6E4p7LQaGJ6fgy5Q)
 * [Zack's Lab](https://www.youtube.com/watch?v=U3VJCSDqdG4)
 
 ## Github projects
-
 * [Official JetBot](https://github.com/NVIDIA-AI-IOT/jetbot)
 * [Jetson Nano Object Detection and Tracking](https://github.com/SteveMacenski/jetson_nano_detection_and_tracking)
 
