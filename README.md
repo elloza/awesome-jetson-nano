@@ -29,8 +29,10 @@ A curated list of awesome Nvidia Jetson Nano projects and resources.
 * [Getting Started with the NVIDIA Jetson Nano Developer Kit](https://blog.hackster.io/getting-started-with-the-nvidia-jetson-nano-developer-kit-43aa7c298797): A great tutorial to perform the initial setup of your Jetson Nano. This could save a lot of your time for the initial setup.
 * [Official Setup Guide](https://developer.nvidia.com/embedded/learn/get-started-jetson-nano-devkit)
 
-# CSI Camera
+## SWAP file
+* [Install SWAP file](https://github.com/JetsonHacksNano/installSwapfile)
 
+## CSI Camera
 * [Jetson Nano CSI Camera](https://github.com/JetsonHacksNano/CSI-Camera)
 
 ## Jetson Nano case 3d models
