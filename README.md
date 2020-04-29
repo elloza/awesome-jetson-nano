@@ -25,6 +25,10 @@ A curated list of awesome Nvidia Jetson Nano projects and resources.
 * [Official Nvidia Forum](https://devtalk.nvidia.com/default/board/371/)
 
 
+## Common errors
+* [hangs on unnatended uppgr](https://forums.developer.nvidia.com/t/hangs-at-first-boot-at-waiting-for-unattended-upgr-to-exit/72686)
+
+
 ## How to setup you Jetson Nano
 * [Getting Started with the NVIDIA Jetson Nano Developer Kit](https://blog.hackster.io/getting-started-with-the-nvidia-jetson-nano-developer-kit-43aa7c298797): A great tutorial to perform the initial setup of your Jetson Nano. This could save a lot of your time for the initial setup.
 * [Official Setup Guide](https://developer.nvidia.com/embedded/learn/get-started-jetson-nano-devkit)
@@ -43,11 +47,15 @@ A curated list of awesome Nvidia Jetson Nano projects and resources.
 
 ![](https://cdn.thingiverse.com/renders/a5/00/69/3f/ee/a8579806d3b3eb1dc5d5bbd876e14171_preview_featured.jpg)
 
+## Software Development USEFUL!
+
+* [Visual studio Code](https://www.jetsonhacks.com/2019/10/01/jetson-nano-visual-studio-code-python/)
+* [Tutorial](https://havedatawilltrain.com/got-nano-will-code/)
+
 ## Python & Tensorflow install
 * Using these useful [scripts](https://github.com/karaage0703/jetson-nano-tools)
 
 ## Pytorch install
-
 * [NVIDIA Forum thread](https://devtalk.nvidia.com/default/topic/1049071/pytorch-for-jetson-nano/)
 
 ## OpenCV
@@ -64,4 +72,6 @@ A curated list of awesome Nvidia Jetson Nano projects and resources.
 ## Github projects
 * [Official JetBot](https://github.com/NVIDIA-AI-IOT/jetbot)
 * [Jetson Nano Object Detection and Tracking](https://github.com/SteveMacenski/jetson_nano_detection_and_tracking)
+
+
 
